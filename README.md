@@ -10,7 +10,7 @@ Preview Dashboard Streamlit<br>
 The purpose of this project is to analyze data from the Bike Sharing Dataset. The output of this project will provide us with insights and knowledge.
 
 Link of Website Streamlit
-[Project Data Analysis](https://app-bike-sharing-8vjnvckyxypwpwnbmdbvui.streamlit.app/)
+[Project Data Analysis](https://bike-sharing-project-sultanfahdmby.streamlit.app/)
 
 
 ## Installation
@@ -30,6 +30,6 @@ Link of Website Streamlit
    streamlit run Dashboard.py
    ```
 2. Or you can visit this website streamlit project
-  (https://app-bike-sharing-8vjnvckyxypwpwnbmdbvui.streamlit.app/)
+  (https://bike-sharing-project-sultanfahdmby.streamlit.app/)
    
 
