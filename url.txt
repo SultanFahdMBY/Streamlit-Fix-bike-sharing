@@ -1,1 +1,1 @@
-https://app-bike-sharing-8vjnvckyxypwpwnbmdbvui.streamlit.app/
+https://bike-sharing-project-sultanfahdmby.streamlit.app/
